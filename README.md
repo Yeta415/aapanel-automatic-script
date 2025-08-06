@@ -22,4 +22,4 @@ Jalankan satu baris berikut di server kamu:
 ```bash
 curl -O https://raw.githubusercontent.com/Yeta415/aapanel-automatic-script/main/rindev-aapanel-tool.sh
 chmod +x rindev-aapanel-tool.sh
-./rindev-aapanel-tool.sh
+./rindev-aapanel-tool.sh ```
