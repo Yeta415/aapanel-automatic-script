@@ -23,3 +23,11 @@ Jalankan satu baris berikut di server kamu:
 curl -O https://raw.githubusercontent.com/Yeta415/aapanel-automatic-script/main/rindev-aapanel-tool.sh
 chmod +x rindev-aapanel-tool.sh
 ./rindev-aapanel-tool.sh ```
+
+## kalau engga bisa dan meminta root user
+
+```bash
+git clone https://github.com/Yeta415/aapanel-automatic-script.git
+cd aapanel-automatic-script
+chmod +x rindev-aapanel-tool.sh
+sudo bash rindev-aapanel-tool.sh
