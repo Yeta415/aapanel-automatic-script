@@ -24,10 +24,3 @@ curl -O https://raw.githubusercontent.com/Yeta415/aapanel-automatic-script/main/
 chmod +x rindev-aapanel-tool.sh
 ./rindev-aapanel-tool.sh
 
-atau kalau engga bisa dan meminta root user pakai :
-
-```bash
-git clone https://github.com/Yeta415/aapanel-automatic-script.git
-cd aapanel-automatic-script
-chmod +x rindev-aapanel-tool.sh
-sudo bash rindev-aapanel-tool.sh
